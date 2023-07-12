@@ -5,6 +5,7 @@
 - Gmail:- utsabhaldar88888@gmail.com
 - Linkedin:- https://www.linkedin.com/in/utsab-haldar/
 - Instagram:- https://www.instagram.com/utsab_haldar_21/
+- twitter:- https://twitter.com/utsabhaldar
 - Leetcode:- https://leetcode.com/utsabhaldar/
 
 <!---
