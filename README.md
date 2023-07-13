@@ -6,7 +6,6 @@
 - Linkedin:- https://www.linkedin.com/in/utsab-haldar/
 - Instagram:- https://www.instagram.com/utsab_haldar_21/
 - twitter:- https://twitter.com/utsabhaldar
-- Leetcode:- https://leetcode.com/utsabhaldar/
 
 <!---
 utsabhaldar/utsabhaldar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
