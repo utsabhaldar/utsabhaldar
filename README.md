@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utsab Haldar
 - 👀 I’m interested in Android App and Game Development
-- 🌱 I’m currently learning Hybrid App Platforms, API implementation, DSA in Java
+- 🌱 I’m currently learning Hybrid App Platforms, DSA in Java
 - 📫 How to reach me =>
 - Gmail:- utsabhaldar88888@gmail.com
 - Linkedin:- https://www.linkedin.com/in/utsab-haldar/
