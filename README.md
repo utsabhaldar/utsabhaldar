@@ -9,6 +9,7 @@
 
 
 - 🌱 I’m currently learning **Data structures & Algorithms**
+- 📫 How to reach me utsabhaldar88888@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
