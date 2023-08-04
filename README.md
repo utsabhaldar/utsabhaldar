@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utsab Haldar</h1>
 <h3 align="center">A passionate Information Technology student from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fdeveloper-working-on-computer-4337851-3618988.gif&tbnid=z4Tsc13Fei4FHM&vet=12ahUKEwjzwbHu_cKAAxWRoekKHXVWBPsQMygsegUIARCoAw..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flotties%2Ffront-end-developer&docid=-hbmLcWQgdJZeM&w=685&h=333&q=animated%20coding%20gif&ved=2ahUKEwjzwbHu_cKAAxWRoekKHXVWBPsQMygsegUIARCoAw">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsabhaldar&label=Profile%20views&color=0e75b6&style=flat" alt="utsabhaldar" /> </p>
 
